@@ -28,7 +28,7 @@ To use the IPL Win Predictor, follow these steps:
 4. Run the Streamlit app:
 
     ```bash
-    streamlit run app.py
+    streamlit run ipl_pred_app.py
   
 5. Input the required details such as batting team, bowling team, host city, target score, current score, overs completed, and wickets lost.
 

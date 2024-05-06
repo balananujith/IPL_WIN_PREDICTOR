@@ -12,18 +12,22 @@ To use the IPL Win Predictor, follow these steps:
 
 1. Clone the repository to your local machine:
 
+    ```bash
     git clone https://github.com/balananujith/IPL-WIN-PREDICTOR.git
  
 2. Navigate to the project directory:
 
+    ```bash
     cd IPL-WIN-PREDICTOR
  
 3. Install the required dependencies:
 
+    ```bash
     pip install -r requirements.txt
 
 4. Run the Streamlit app:
 
+    ```bash
     streamlit run app.py
   
 5. Input the required details such as batting team, bowling team, host city, target score, current score, overs completed, and wickets lost.
@@ -37,13 +41,16 @@ Contributions to the IPL Win Predictor project are welcome! If you'd like to con
 1. Fork the repository by clicking the "Fork" button on the top right of this page.
 2. Clone your forked repository to your local machine.
 3. Create a new branch to work on your changes:
+      ```bash
        git checkout -b feature/new-feature
-4. Make your changes and commit them:
+5. Make your changes and commit them:
+       ```bash  
        git add .
        git commit -m "Add new feature"
-5. Push your changes to your fork:
+7. Push your changes to your fork:
+       ```bash
        git push origin feature/new-feature
-6. Finally, submit a pull request from your forked repository on GitHub.
+9. Finally, submit a pull request from your forked repository on GitHub.
 
 ## Few Snapshots of my Project:
 ![ipl1](https://github.com/balananujith/IPL_WIN_PREDICTOR/assets/118455793/65c985e6-8776-430f-88ac-dac8c29814b7)
